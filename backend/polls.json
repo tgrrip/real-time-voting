@@ -1,0 +1,81 @@
+[
+  {
+    "id": "40815600-c63d-4757-a79a-13733e2894a7",
+    "question": "rete",
+    "options": [
+      {
+        "id": "6c7ed4fe-62a0-4a0b-b353-864e4c95662c",
+        "text": "fgdf",
+        "votes": 2
+      },
+      {
+        "id": "883cc519-a209-4c64-988e-5efee45db9e8",
+        "text": "sdfgt",
+        "votes": 2
+      }
+    ]
+  },
+  {
+    "id": "f699ab4f-9584-4018-ba56-a2a46a98c4d7",
+    "question": "пеа",
+    "options": [
+      {
+        "id": "0d32953d-1f5c-4015-b568-081ec5eb1c44",
+        "text": "ав",
+        "votes": 1
+      },
+      {
+        "id": "ec316568-37fc-4422-9a3a-096761f85f19",
+        "text": "акфы",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "id": "77d0e896-3e5f-4d2c-b5b3-06a39f920206",
+    "question": "1",
+    "options": [
+      {
+        "id": "55a21818-e1c7-47a4-af82-bce4623f5054",
+        "text": "1",
+        "votes": 0
+      },
+      {
+        "id": "7e08fdd4-f39a-4c45-babc-088554c80298",
+        "text": "2",
+        "votes": 2
+      }
+    ]
+  },
+  {
+    "id": "d13d4d32-5656-4a90-9440-ccba9ea378a1",
+    "question": "2",
+    "options": [
+      {
+        "id": "f415f5e1-a6ef-402b-9c6f-7fb08dc9a5c1",
+        "text": "1",
+        "votes": 0
+      },
+      {
+        "id": "921933f9-8beb-4b9d-afac-b3c00d8c2790",
+        "text": "2",
+        "votes": 0
+      },
+      {
+        "id": "d7dd27fe-0a24-43ae-87c6-6ded9e0ed1d2",
+        "text": "3",
+        "votes": 1
+      },
+      {
+        "id": "021e7f16-45e9-4c3d-8ff4-bb1940a998ca",
+        "text": "4",
+        "votes": 1
+      },
+      {
+        "id": "e06e03c0-70b8-4d89-bf99-8b4f24278086",
+        "text": "5",
+        "votes": 0
+      }
+    ]
+  }
+]
